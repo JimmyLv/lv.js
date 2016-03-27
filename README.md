@@ -1,3 +1,3 @@
 # lv.js
 
-Just 4 light view.
+Just 4 lighter view.
